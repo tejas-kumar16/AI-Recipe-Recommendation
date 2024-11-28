@@ -20,7 +20,7 @@ Personalized Recipes: Customize portion size and spice preferences.
 Seamless Integration: Combines YOLO for object detection with the power of AI-driven recipe generation.
 
 ## 📦 Technologies Used
-YOLOv5: For object detection and vegetable recognition.
+YOLOv8: For object detection and vegetable recognition.
 ChatGPT API: For dynamic recipe generation based on detected ingredients.
 
 ## 💡 How to Use
