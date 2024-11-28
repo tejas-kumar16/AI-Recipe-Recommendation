@@ -4,7 +4,7 @@ from ultralytics import YOLO
 from PIL import Image
 
 # Set up OpenAI API key
-openai.api_key = "sk-4yY2K8-1lPMIbqkSXx1bmecQlO0Swy37wkEl5bZrVET3BlbkFJa2vOIU4rzS4ehDqVT4O04oORwA3x3Zxh8LO5Q_QSAA"
+openai.api_key = "API_KEY"
 
 # Function to interact with ChatGPT
 def chat_with_gpt(messages):
